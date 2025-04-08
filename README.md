@@ -1,2 +1,2 @@
 # terms-of-use.md
-UtilityContractManager - Terms and Conditions
+Utility Token

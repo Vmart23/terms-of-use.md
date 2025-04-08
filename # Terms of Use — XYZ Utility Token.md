@@ -1,4 +1,4 @@
-# Terms of Use — XYZ Utility Token
+# Terms of Use — XYZ UtilityContractManager 
 
 This token is designed solely for use within the XYZ ecosystem and does **not** represent an investment, security, or financial asset.
 
